@@ -1,3 +1,3 @@
 package model
 
-data class Point(val x: Int, val y: Int)
+data class Point(var x: Int, var y: Int)
